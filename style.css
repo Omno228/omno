@@ -1,0 +1,76 @@
+p {font: bold  17px/20px Arial ;
+    text-align: justify;
+    text-indent: 10%;
+    color:rgb(78, 120, 63);
+    width: 300px;
+}
+ol{color: rgba(8, 8, 8, 0.771);
+font-style:italic;
+font-family:  Georgia;}
+ul{color: rgba(3, 3, 3, 0.866);
+font-style:italic;}
+h1{color: rgba(0, 0, 0, 0.871);
+text-align:center;}
+.пися{font-size:16px;
+    line-height: 1.5;}
+body {
+    font-family: 'Courier New', Courier, sans-serif;
+    background-color: rgb(231, 234, 232);
+    color:rgba(7, 7, 7, 0.866);
+    margin:0;
+    padding: 20px;
+}
+.жопа{text-align:center;}
+
+table {
+	width: 400px;
+}
+#lt{
+text-align: justify;
+	width: 450px;
+    
+}
+#hh{text-align: right;}
+.h2{text-align: center;
+width: 300px;}
+.tt{width: 500px;}
+th{
+text-align: left;
+}
+td{text-align: center;}
+.ss{text-decoration: underline;}
+i{color: red;}
+b{color: blueviolet;}
+li>b{color: coral;}
+.lor{
+    text-decoration:overline;
+}
+h1,h2,h3 {
+	text-align: center;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	font-size: 16px;
+	color: red;
+}
+ul li {
+	color: rgb(199, 167, 26);
+}
+ol li {
+	color: green;
+}
+li>b{
+    color:darkblue;
+}
+.xxx{
+    font-size: 30px;
+}
+.pum{
+color: aquamarine;
+}
+.muha{
+font-size: 27px;
+color: blueviolet;
+}
