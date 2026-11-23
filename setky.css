@@ -4,7 +4,7 @@
     gap: 8px;
 }
 .okno{
-    width: 150px;
+    width: 100px;
     min-height: 100px;
     background-color: aquamarine;
     border: 1px solid red;
@@ -15,4 +15,17 @@
 padding: 0;
 margin: 0;
 box-sizing: border-box;
+}
+.fl{
+    display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+} 
+.flex{width: 150px;
+    min-height: 100px;
+    background-color: aquamarine;
+    border: 1px solid red;
+    border-radius: 10px;
 }
